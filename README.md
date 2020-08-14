@@ -1,5 +1,5 @@
 # Muralmu Terms of Service and Privacy Policy
 
-### [Terms of Service]()
+### [Terms of Service](docs/Terms of Service.md)
 
-### [Privacy Policy]()
+### [Privacy Policy](docs/Privacy Policy.md)
