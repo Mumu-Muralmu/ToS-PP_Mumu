@@ -1,4 +1,4 @@
-# Privacy Policy
+# TERMS OF SERVICE
 
 ## 1. Terms
 By accessing our app, MUMU, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing MUMU. The materials contained in MUMU are protected by applicable copyright and trademark law.
